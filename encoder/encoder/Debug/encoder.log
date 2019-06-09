@@ -1,0 +1,3 @@
+﻿  encoder.cpp
+d:\study\sdl_program\坦克大战\坦克大战\encoder\encoder\sdl_encoder.h(110): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  encoder.vcxproj -> D:\Study\SDL_program\坦克大战\坦克大战\encoder\Debug\encoder.exe
